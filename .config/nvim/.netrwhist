@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =9
+let g:netrw_dirhist_9='/home/any/Documents/workspace/ondaily-portal/setup/server'
+let g:netrw_dirhist_8='/home/any/Documents/draft/ondaily-ui/packages/template/src/element'
+let g:netrw_dirhist_7='/home/any/Documents/draft/react-styleguidist/examples/basic'
+let g:netrw_dirhist_6='/home/any/Documents/draft/react-styleguidist/examples/basic/src'
+let g:netrw_dirhist_5='/home/any/Documents/draft/react-styleguidist/examples/basic/src/components'
+let g:netrw_dirhist_4='/home/any/Documents/draft/react-styleguidist/examples/basic/src/components/CounterButton'
+let g:netrw_dirhist_3='/home/any/Documents/draft/react-styleguidist/examples/basic/src/components'
+let g:netrw_dirhist_2='/home/any/Documents/draft/react-styleguidist/examples/basic/src/components/Button'
+let g:netrw_dirhist_1='/home/any/Documents/draft/react-styleguidist/examples/basic/src/components'
+let g:netrw_dirhist_0='/home/any/Documents/draft/react-styleguidist/examples/basic/src'
